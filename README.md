@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @havefungaming
 - 👀 I’m interested in Operating Systems
-- 🌱 I’m currently learning c++
+- 🌱 I'm currently learning Python
 
 <!---
 havefungaming/havefungaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
